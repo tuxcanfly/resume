@@ -41,7 +41,7 @@ Work Experience
     Software Engineer, 2010 - 2014
 
     - Worked on multiple projects
-    - Maintained quality doing code reviews, automated tests and continous integration
+    - Maintained quality doing code reviews, automated tests and continuous integration
 
     **Projects**
 
