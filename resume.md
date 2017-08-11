@@ -4,7 +4,7 @@ Javed Khan
 Hyderabad
 [github.com/tuxcanfly](https://github.com/tuxcanfly) • tuxcanfly@gmail.com
 
-Software Enthusiast
+Blockchain Specialist
 
 Objective
 ---------
