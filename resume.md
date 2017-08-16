@@ -9,23 +9,29 @@ Blockchain Specialist
 Objective
 ---------
 
-To implement decentralized, censorship resistant protocols so as to empower
-people.
+To implement decentralized, censorship resistant protocols and empower people.
 
 
 Work Experience
 ---------------
 
-*   **[Purse](https://purse.io)** (San Fransisco, CA)
+*   **[Purse](https://purse.io)** (San Francisco, CA)
 
-    Blockchain Developer, bcoin, Aug 2017
+    Blockchain Developer, bcoin, Aug 2017 - Present
 
     + [bcoin](https://github.com/bcoin-org/bcoin)
         - bitcoin implementation in node.js
 
+*   **[Decred](https://www.decred.org)** (Chicago, IL)
+
+    Blockchain Developer, Decred, Jan 2016 - July 2017
+
+    + [dcrd](https://github.com/decred/dcrd)
+        - cryptocurrency with focus on governance
+
 *   **[Company 0](https://www.companyzero.com/)** (Chicago, IL)
 
-    Team Member, btcsuite, Oct 2014
+    Blockchain Developer, btcsuite, Oct 2014 - Dec 2015
 
     + **[btcd](https://github.com/btcsuite/btcd)**
         - an alternative full node bitcoin implementation 
@@ -43,14 +49,6 @@ Work Experience
 *   **[Agiliq](http://agiliq.com)** (Hyderabad)
 
     Software Engineer, 2010 - 2014
-
-*   **Open Source** (Multiple Projects)
-
-    Contributor
-
-    + **[Django](https://www.djangoproject.com/)**
-
-    + **[django-merchant](https://github.com/agiliq/merchant)**
 
 
 Education
