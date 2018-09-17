@@ -2,18 +2,23 @@ Javed Khan
 ==========
 
 Hyderabad
-[github.com/tuxcanfly](https://github.com/tuxcanfly) • tuxcanfly@gmail.com
+[github.com/tuxcanfly](https://github.com/tuxcanfly) • tuxcanfly@merkleblock.com
 
 Blockchain Specialist
 
 Objective
 ---------
 
-To implement decentralized, censorship resistant protocols and empower people.
-
+To create a robust foundation for the upcoming decentralization of global financial
+technology.
 
 Work Experience
 ---------------
+*   **[MerkleBlock](https://merkleblock.com)** (Hyderabad, IN)
+
+    Founder, MerkleBlock Software, Aug 2014 - Present
+
+    + Development studio with expertise in blockchain product development
 
 *   **[Purse](https://purse.io)** (San Francisco, CA)
 
